@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="google_api_key">AIzaSyAVBtRcHjya-Te54Ta3fp1ZMrtzU4QX0MY</string>
+    <string name="app_name">Точки</string>
+    <string name="menu_add_title">Добавить точку</string>
+    <string name="menu_delete_title">Удалить точку</string>
+    <string name="tab_map">Карта</string>
+    <string name="tab_list">Список</string>
+
+    <string name="point_default_title">Точка</string>
+
+    <string name="point_detail_name_placeholder">Название точки</string>
+    <string name="point_detail_lat_placeholder">Широта</string>
+    <string name="point_detail_lng_placeholder">Долгота</string>
+    <string name="point_detail_btn_create">Создать точку</string>
+    <string name="point_detail_btn_edit">Редактировать точку</string>
+    <string name="point_detail_btn_delete">Удалить точку</string>
+    <string name="point_detail_add_by_address">Создать по адресу</string>
+    <string name="point_detail_wrong_coordinate">Неверный формат координат</string>
+
+    <string name="address_search_hint">Введите адрес</string>
+    <string name="search_error_no_text">Введите адрес</string>
+    <string name="search_error_no_result">По вашему запросу ничего не найдено</string>
+    <string name="search_error">Что-то пошло не так. Повторите попытку</string>
+
+    <string name="permission_not_available">Включите необходимые разрешения в настройках вашего приложения</string>
+    <string name="delete_dialog_text">Вы уверены, что хотите удалить выбранную точку?</string>
+    <string name="delete_dialog_ok">Ок</string>
+    <string name="delete_dialog_cancel" >Отмена</string>
+</resources>
